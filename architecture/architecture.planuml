@@ -1,0 +1,9 @@
+@startuml architecture
+
+skinparam belowForResponse true
+ABAPFunction -> MessageConverter : message
+MessageConverter -> MessageShipper : message
+MessageShipper -> kafka : message
+
+
+@enduml
