@@ -5,6 +5,8 @@
 
 # architecture
 
+A Message can be sent in a *workflow event* or *directly*.
+
 ![architecture](./out/architecture/architecture/architecture.png)
 
 # local tests
