@@ -1,5 +1,8 @@
 # abap-message-shipper :construction: WIP
 
+[![Known Vulnerabilities](https://snyk.io/test/github/JohannesKonings/abap-message-shipper/badge.svg?targetFile=package.json)](https://snyk.io/test/github/JohannesKonings/abap-message-shipper?targetFile=package.json)
+![Run abaplint](https://github.com/JohannesKonings/abap-message-shipper/workflows/Run%20abaplint/badge.svg)
+
 # architecture
 
 ![architecture](./out/architecture/architecture/architecture.png)

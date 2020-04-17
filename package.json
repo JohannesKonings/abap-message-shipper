@@ -1,0 +1,26 @@
+{
+  "name": "abap-message-shipper",
+  "version": "0.0.1",
+  "description": "abap-message-shipper",
+  "scripts": {
+    "test": "abaplint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohannesKonings/abap-message-shipper.git"
+  },
+  "keywords": [
+    "abap",
+    "messages",
+    "sap-netweaver"
+  ],
+  "author": "Johannes Konings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohannesKonings/abap-message-shipper/issues"
+  },
+  "homepage": "https://github.com/JohannesKonings/abap-message-shipper#readme",
+  "devDependencies": {
+    "@abaplint/cli": "^2.31.0"
+  }
+}
